@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1838/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreeja145" alt="sreeja145" /></a> </p>
 
-- 🌱 I’m currently learning **data structures and algorithms, operating systems, Microsoft Azure fundamentals**
+- 🌱 I’m currently learning **data structures and algorithms, Data Science**
 
 - 💬 Ask me about **life**
 
