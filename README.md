@@ -1,5 +1,5 @@
 # 💫 Hi there:
-🔭 I’m currently working as Business Analyst<br>🌱 I’m currently learning Power BI, MySQL, Python, Excel
+🔭 I’m currently working as Business Analyst<br>🌱 I’m currently getting skilled in  Tableau, MySQL, Python, Excel
 
 
 ## 🌐 Socials:
